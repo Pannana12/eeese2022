@@ -7,6 +7,9 @@ The main page: It contains two buttons, one of which is to search for medicine i
 3- Reports page: on this page, the updates of the reports that the patient receives from his doctor appear, with the most recent appearing first and then the oldest
 (On the interface of the doctor there are reports submitted to the patients he followed up with)
 4- Personal page: contains the patient's personal information such as name, age, address, etc...
+
+
+
 تطبيق سبيل هو حلقة الوصل بين الطبيب و المريض،يهتم التطبيق باجاد حلول سهلة وبسيطة لبعض المشاكل التي تواجة المريض في الوصول ال العلاج في الوقت المناسب و بالحودة المناسبة 
 يتكون التطبيق من اربعة واجهات رئيسية :
 الصفحة الرئيسية: وتحتوي على زرين احدهما البحث عن دواء في الصيدليات المسجلة و الزر الاخر للبحث عن طبيب ، قائمة الطبيب تحتوي على عناصر لتضيق نطاق البحث،و شريط بحث للوصول الى الطبيب باسطة الاسم او رمز الIDالخاص به 
